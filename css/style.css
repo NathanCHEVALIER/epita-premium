@@ -1,0 +1,61 @@
+/***
+* 
+***/
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+body{
+    background-color: #bde7f2;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+/*
+@font-face {
+    font-family: Atkinson;
+    src: url("/img/fonts/Atkinson-Hyperlegible-Regular-102.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Atkinson;
+    font-weight: bold;
+    src: url("/img/fonts/Atkinson-Hyperlegible-Bold-102.otf") format("opentype");
+}
+@font-face {
+    font-family: Atkinson;
+    font-weight: bold;
+    font-style: italic;
+    src: url("/img/fonts/Atkinson-Hyperlegible-BoldItalic-102.otf") format("opentype");
+}*/
+
+#intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+#intro h1
+{
+    color: #15073e;
+    font-size: 66px;
+}
+#intro p
+{
+    color: #15073e;
+    font-size: 20px;
+    font-weight: bold;
+}
+#intro h5
+{
+    position:  absolute;
+    bottom: 50px;
+    display: inline-block;
+    color: #4aa6e6;
+    font-size: 20px;
+    font-weight: bold;
+    justify-self: flex-end;
+    align-items: flex-end;
+}

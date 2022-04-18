@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr" >
+    <head>
+        <meta charset="utf-8">
+        <title>Epita Premium</title>
+        <meta name="description" content="Epita Premium">
+        <meta name="keywords" content=""/>
+        <meta name="author" content="" />
+        <meta name="theme-color" content="#4700ba">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css2?family=Abel&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link rel="icon" type="/image/png" href="/img/icons/icon.png" >
+        <link rel="stylesheet" href="css/footer.css">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+    <body>
+
+        <section id="intro" >
+            <aside>
+                <h1> Epita Premium. </h1>
+                <p>Vous souhaitez vos traces plus rapidement ? </br> Choisissez notre version premium!</p>
+            </aside>
+            <h5>Be ready: 01/06/22</h5>
+        </section>
+        
+        <script type="text/javascript">
+
+        var btn = document.getElementById("btn-menu");
+		var menu = document.getElementById("left-menu");
+        var container = document.getElementById("container");
+        var map_ifr = document.getElementById("map-ifr");
+        
+		btn.classList.add("menu-open");
+		menu.classList.add("menu-open");
+		container.classList.add("menu-open");
+
+		btn.addEventListener('click', function() {
+			if(btn.classList.contains("menu-open")){
+				btn.classList.remove("menu-open");
+				menu.classList.remove("menu-open");
+				container.classList.remove("menu-open");
+			}
+			else{
+				btn.classList.add("menu-open");
+				menu.classList.add("menu-open");
+				container.classList.add("menu-open");
+			}
+        });
+
+        </script>
+    </body>
+    
+</html>
