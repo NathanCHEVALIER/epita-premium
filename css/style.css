@@ -1,7 +1,3 @@
-/***
-* 
-***/
-
 *{
     margin: 0px;
     padding: 0px;
@@ -12,24 +8,6 @@ body{
     overflow-x: hidden;
     overflow-y: hidden;
 }
-/*
-@font-face {
-    font-family: Atkinson;
-    src: url("/img/fonts/Atkinson-Hyperlegible-Regular-102.otf") format("opentype");
-}
-
-@font-face {
-    font-family: Atkinson;
-    font-weight: bold;
-    src: url("/img/fonts/Atkinson-Hyperlegible-Bold-102.otf") format("opentype");
-}
-@font-face {
-    font-family: Atkinson;
-    font-weight: bold;
-    font-style: italic;
-    src: url("/img/fonts/Atkinson-Hyperlegible-BoldItalic-102.otf") format("opentype");
-}*/
-
 #intro {
     display: flex;
     justify-content: center;
