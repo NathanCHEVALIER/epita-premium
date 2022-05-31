@@ -4,7 +4,7 @@
     font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 body{
-    background-color: #bde7f2;
+    background-color: #00275a;/*#bde7f2;*/
     overflow-x: hidden;
     overflow-y: hidden;
 }
@@ -15,16 +15,21 @@ body{
     flex-direction: column;
     height: 100vh;
 }
+#logo{
+    max-height: 250px;
+}
 #intro h1
 {
-    color: #15073e;
+    color: #ffffff;/*#15073e;*/
     font-size: 66px;
 }
 #intro p
 {
-    color: #15073e;
+    color: #ffffff;
     font-size: 20px;
     font-weight: bold;
+    margin-top: 60px;
+    text-align: center;
 }
 #intro h5
 {
@@ -36,4 +41,21 @@ body{
     font-weight: bold;
     justify-self: flex-end;
     align-items: flex-end;
+}
+.btn {
+    padding: 8px 16px;
+    border: 2px solid #ca934c;
+    color: #ca934c;
+    text-transform: uppercase;
+    font-size: 16px;
+    background: transparent;
+    font-weight: 700;
+    border-radius: 3px;
+    margin-top: 24px;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+.btn:hover {
+    background-color: #ca934c;
+    color: #ffffff;
 }
