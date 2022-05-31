@@ -26,13 +26,13 @@
      showgrid="false"
      units="px"
      width="1080px"
-     inkscape:zoom="0.24535951"
-     inkscape:cx="639.87739"
-     inkscape:cy="829.39521"
-     inkscape:window-width="3200"
-     inkscape:window-height="1721"
-     inkscape:window-x="-877"
-     inkscape:window-y="-2169"
+     inkscape:zoom="0.49071902"
+     inkscape:cx="4885.6879"
+     inkscape:cy="1474.3671"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -75,6 +75,16 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
+       style="fill:#00275a;fill-opacity:1;stroke:none;stroke-width:1.82354"
+       id="rect1796-8"
+       width="289.78247"
+       height="285.75"
+       x="816.08167"
+       y="-13.967834"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.77326"
        id="rect1796-37"
        width="285.75"
@@ -100,6 +110,16 @@
        width="285.75"
        height="285.75"
        x="530.33167"
+       y="271.78217"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.77326"
+       id="rect1796-37-6-6"
+       width="285.75"
+       height="285.75"
+       x="1109.8966"
        y="271.78217"
        inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
        inkscape:export-xdpi="96"
@@ -1359,6 +1379,49 @@
        inkscape:export-ydpi="96"
        inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
     <path
+       id="path863-2-5-5-7-3-7"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 958.1219,60.98489 -70.11876,45.49749 24.30153,17.10501 -13.78356,10.46449 h 28.65083 l 3.25538,2.29124 -4.81485,9.89984 13.80713,-3.57035 22.8459,16.08032 -0.9217,-21.75 11.4118,-2.95105 h 50.6249 l -4.8376,-11.84033 13.6821,-3.53809 -21.8574,-16.4696 -16.5486,-40.50216 -18.5315,14.06904 -11.2691,-8.49135 -5.1785,10.64732 z"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 928.16174,123.58739 h -15.3279 l 0.0798,-33.05074 h 15.32789 v 5.10929 H 917.9431 v 8.94127 h 10.2186 v 5.02946 h -10.29844 v 8.86143 h 10.37827 z"
+       id="path867-1-5-4-1-5-8-7"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       id="path836-28-3-7-3-9-8-7"
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 934.3887,90.2573 v 33.40991 h 5.1092 v -7.10499 c 6.8021,-0.002 13.3979,-4.92107 13.4924,-12.89325 0.1061,-8.94882 -7.1541,-13.53162 -13.5721,-13.37173 z m 5.4975,4.97532 c 4.0192,-0.0417 8.2323,3.15207 8.1539,8.51626 -0.053,3.63841 -3.5817,8.08315 -8.5422,7.70398 V 95.24681 c 0.1291,-0.008 0.2587,-0.0128 0.3883,-0.0141 z"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 958.1389,89.97781 h 5.0694 v 33.72933 h -5.0694 z"
+       id="path840-1-3-2-8-0-0-9"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 989.1939,95.52619 v -5.22904 h -21.6347 v 5.26896 h 8.3824 v 27.82171 h 4.9896 V 95.52619 Z"
+       id="path842-1-6-1-3-9-1-7"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       id="path844-6-9-6-9-1-0-1"
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 999.9943,89.20011 -13.1251,34.22763 5.3049,-0.0393 1.6898,-4.51922 h 12.1821 l 1.7291,4.51922 h 5.4229 z m -0.039,13.83253 4.2442,10.92447 h -8.4881 z"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
        style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 608.96533,396.64416 4.19039,0.15466 -3.5312,2.36355 1.26995,4.20339 -3.42644,-2.62038 -3.64976,2.3592 1.53972,-4.17884 -3.46595,-2.62183 4.3485,0.1605 1.5266,-3.82302 z"
        id="path18254-5-9-2-7-8-4"
@@ -1464,5 +1527,332 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       id="path863-2-5-5-7-3-6-0"
+       style="fill:none;fill-opacity:1;stroke:#ca934c;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1248.2014,357.10108 -70.1187,45.49749 24.3015,17.10501 -13.7836,10.46449 h 28.6509 l 3.2553,2.29124 -4.8148,9.89984 13.8072,-3.57035 22.8458,16.08032 -0.9216,-21.75 11.4117,-2.95105 h 50.625 l -4.8377,-11.84033 13.6821,-3.53809 -21.8573,-16.4696 -16.5486,-40.50216 -18.5316,14.06904 -11.269,-8.49135 -5.1786,10.64732 z"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ca934c;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1218.2413,419.70358 h -15.3279 l 0.08,-33.05074 h 15.3279 v 5.10929 h -10.2985 v 8.94127 h 10.2186 v 5.02946 h -10.2984 v 8.86143 h 10.3783 z"
+       id="path867-1-5-4-1-5-8-0-9"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       id="path836-28-3-7-3-9-8-3-4"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ca934c;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1224.4683,386.37349 v 33.40991 h 5.1091 v -7.10499 c 6.8021,-0.002 13.3979,-4.92107 13.4925,-12.89325 0.1061,-8.94882 -7.1542,-13.53162 -13.5722,-13.37173 z m 5.4975,4.97532 c 4.0191,-0.0417 8.2322,3.15207 8.1538,8.51626 -0.053,3.63841 -3.5816,8.08315 -8.5422,7.70398 V 391.363 c 0.1291,-0.008 0.2587,-0.0128 0.3884,-0.0141 z"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ca934c;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1248.2185,386.094 h 5.0693 v 33.72933 h -5.0693 z"
+       id="path840-1-3-2-8-0-0-0-6"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ca934c;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1279.2734,391.64238 v -5.22904 h -21.6347 v 5.26896 h 8.3824 v 27.82171 h 4.9896 v -27.86163 z"
+       id="path842-1-6-1-3-9-1-9-9"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       id="path844-6-9-6-9-1-0-9-9"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ca934c;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1290.0738,385.3163 -13.125,34.22763 5.3049,-0.0393 1.6898,-4.51922 h 12.182 l 1.7291,4.51922 h 5.4229 z m -0.039,13.83253 4.2442,10.92447 h -8.4881 z"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <g
+       id="g4932-4-1-8"
+       transform="matrix(0.59975201,0,0,0.59975201,810.83008,10.955279)"
+       style="fill:#ca934c;fill-opacity:1"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         id="path836-28-3-7-1-8-3-51-9"
+         style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.625854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 199.86441,262.6256 v 31.30934 h 4.78792 v -6.65828 c 6.37445,-0.002 12.55556,-4.61166 12.64413,-12.08261 0.0994,-8.38618 -6.70436,-12.68085 -12.7188,-12.53101 z m 5.15184,4.66251 c 3.76646,-0.039 7.71468,2.95389 7.64123,7.98083 -0.0498,3.40964 -3.35647,7.57493 -8.00515,7.2196 v -15.18712 c 0.12097,-0.008 0.24242,-0.012 0.36392,-0.0132 z"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path836-28-3-7-1-8-9-7-41-6"
+         style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.625854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 178.69761,262.6256 v 31.30934 h 4.78792 v -6.65828 c 6.37445,-0.002 12.55556,-4.61166 12.64413,-12.08261 0.0994,-8.38618 -6.70436,-12.68085 -12.7188,-12.53101 z m 5.15184,4.66251 c 3.76646,-0.039 7.71468,2.95389 7.64123,7.98083 -0.0498,3.40964 -3.35647,7.57493 -8.00515,7.2196 v -15.18712 c 0.12097,-0.008 0.24242,-0.012 0.36392,-0.0132 z"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:46.0066px;line-height:1.25;font-family:sans-serif;fill:#ca934c;fill-opacity:1;stroke:none;stroke-width:1.15017"
+         x="219.28569"
+         y="294.23383"
+         id="text22086-9-2-0"><tspan
+           sodipodi:role="line"
+           id="tspan22084-8-14-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Staatliches;-inkscape-font-specification:Staatliches;fill:#ca934c;fill-opacity:1;stroke-width:1.15017"
+           x="219.28569"
+           y="294.23383">EMIUM</tspan></text>
+      <path
+         style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 208.32127,286.75039 2.66412,7.34258 h 4.74344 l -3.57382,-9.16196 z"
+         id="path3662-5-8-9" />
+    </g>
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 908.98872,176.70528 h 4.1932 l -3.4416,2.49219 1.4241,4.15368 -3.5207,-2.4922 -3.5603,2.4922 1.3846,-4.23278 -3.5603,-2.49221 h 4.3514 l 1.3846,-3.87675 z"
+       id="path18254-5-9-2-4-8-2"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 894.77162,176.62616 h 4.1932 l -3.4416,2.49219 1.4241,4.15368 -3.5207,-2.49221 -3.5603,2.49221 1.3846,-4.23279 -3.5603,-2.49221 h 4.3514 l 1.3846,-3.87673 z"
+       id="path18254-5-9-2-7-9-5"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1026.5071,176.86354 h 4.1932 l -3.4416,2.49218 1.4241,4.15368 -3.5207,-2.4922 -3.5603,2.4922 1.3846,-4.23278 -3.5603,-2.49221 h 4.3514 l 1.3846,-3.87674 z"
+       id="path18254-5-9-2-4-1-1-7"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1012.29,176.78441 h 4.1932 l -3.4416,2.49219 1.4241,4.15369 -3.5207,-2.49221 -3.5603,2.49221 1.3846,-4.23279 -3.5603,-2.49222 h 4.3514 l 1.3846,-3.87673 z"
+       id="path18254-5-9-2-7-7-5-9"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.2946px;line-height:1.25;font-family:sans-serif;letter-spacing:0.695854px;fill:#ca934c;fill-opacity:1;stroke:none;stroke-width:0.282367"
+       x="973.01355"
+       y="153.49678"
+       id="text22086-9-32-5-6-9"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22084-8-1-3-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Staatliches;-inkscape-font-specification:Staatliches;fill:#ca934c;fill-opacity:1;stroke-width:0.282367"
+         x="973.01355"
+         y="153.49678">SINCE 1984</tspan></text>
+    <rect
+       style="fill:#00275a;fill-opacity:1;stroke:none;stroke-width:1.82354"
+       id="rect1796-8-0"
+       width="289.78247"
+       height="285.75"
+       x="1105.8641"
+       y="-13.967825"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path863-2-5-5-7-3-7-3"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1247.9044,60.984899 -70.1188,45.497491 24.3015,17.10501 -13.7835,10.46449 h 28.6508 l 3.2554,2.29124 -4.8149,9.89984 13.8072,-3.57035 22.8459,16.08032 -0.9217,-21.75 11.4118,-2.95105 h 50.6249 l -4.8376,-11.84033 13.6821,-3.53809 -21.8574,-16.4696 -16.5486,-40.502161 -18.5315,14.06904 -11.2691,-8.49135 -5.1785,10.64732 z"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1217.9442,123.5874 h -15.3279 l 0.08,-33.050741 h 15.3279 v 5.10929 h -10.2984 v 8.941271 h 10.2186 v 5.02946 h -10.2985 v 8.86143 h 10.3783 z"
+       id="path867-1-5-4-1-5-8-7-2"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       id="path836-28-3-7-3-9-8-7-0"
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1224.1712,90.257309 v 33.409911 h 5.1092 v -7.10499 c 6.8021,-0.002 13.3979,-4.92107 13.4924,-12.89325 0.1061,-8.948821 -7.1541,-13.531621 -13.5721,-13.371731 z m 5.4975,4.97532 c 4.0192,-0.0417 8.2323,3.15207 8.1539,8.516261 -0.053,3.63841 -3.5817,8.08315 -8.5422,7.70398 V 95.246819 c 0.1291,-0.008 0.2587,-0.0128 0.3883,-0.0141 z"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1247.9214,89.977819 h 5.0694 v 33.729331 h -5.0694 z"
+       id="path840-1-3-2-8-0-0-9-1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1278.9764,95.526199 v -5.22904 h -21.6347 v 5.26896 h 8.3824 v 27.821711 h 4.9896 V 95.526199 Z"
+       id="path842-1-6-1-3-9-1-7-7"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <path
+       id="path844-6-9-6-9-1-0-1-9"
+       style="fill:#00275a;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1289.7768,89.200119 -13.1251,34.227631 5.3049,-0.0393 1.6898,-4.51922 h 12.1821 l 1.7291,4.51922 h 5.4229 z m -0.039,13.832531 4.2442,10.92447 h -8.4881 z"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png" />
+    <g
+       id="g4932-4-1-8-0"
+       transform="matrix(0.59975201,0,0,0.59975201,1100.6125,10.955288)"
+       style="fill:#ca934c;fill-opacity:1"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         id="path836-28-3-7-1-8-3-51-9-9"
+         style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.625854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 199.86441,262.6256 v 31.30934 h 4.78792 v -6.65828 c 6.37445,-0.002 12.55556,-4.61166 12.64413,-12.08261 0.0994,-8.38618 -6.70436,-12.68085 -12.7188,-12.53101 z m 5.15184,4.66251 c 3.76646,-0.039 7.71468,2.95389 7.64123,7.98083 -0.0498,3.40964 -3.35647,7.57493 -8.00515,7.2196 v -15.18712 c 0.12097,-0.008 0.24242,-0.012 0.36392,-0.0132 z"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path836-28-3-7-1-8-9-7-41-6-9"
+         style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.625854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 178.69761,262.6256 v 31.30934 h 4.78792 v -6.65828 c 6.37445,-0.002 12.55556,-4.61166 12.64413,-12.08261 0.0994,-8.38618 -6.70436,-12.68085 -12.7188,-12.53101 z m 5.15184,4.66251 c 3.76646,-0.039 7.71468,2.95389 7.64123,7.98083 -0.0498,3.40964 -3.35647,7.57493 -8.00515,7.2196 v -15.18712 c 0.12097,-0.008 0.24242,-0.012 0.36392,-0.0132 z"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:46.0066px;line-height:1.25;font-family:sans-serif;fill:#ca934c;fill-opacity:1;stroke:none;stroke-width:1.15017"
+         x="219.28569"
+         y="294.23383"
+         id="text22086-9-2-0-4"><tspan
+           sodipodi:role="line"
+           id="tspan22084-8-14-6-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Staatliches;-inkscape-font-specification:Staatliches;fill:#ca934c;fill-opacity:1;stroke-width:1.15017"
+           x="219.28569"
+           y="294.23383">EMIUM</tspan></text>
+      <path
+         style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 208.32127,286.75039 2.66412,7.34258 h 4.74344 l -3.57382,-9.16196 z"
+         id="path3662-5-8-9-5" />
+    </g>
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1198.7712,176.70529 h 4.1932 l -3.4416,2.49219 1.4241,4.15368 -3.5207,-2.4922 -3.5603,2.4922 1.3846,-4.23278 -3.5603,-2.49221 h 4.3514 l 1.3846,-3.87675 z"
+       id="path18254-5-9-2-4-8-2-9"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1184.5541,176.62617 h 4.1932 l -3.4416,2.49219 1.4241,4.15368 -3.5207,-2.49221 -3.5603,2.49221 1.3846,-4.23279 -3.5603,-2.49221 h 4.3514 l 1.3846,-3.87673 z"
+       id="path18254-5-9-2-7-9-5-2"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1316.2896,176.86355 h 4.1932 l -3.4416,2.49218 1.4241,4.15368 -3.5207,-2.4922 -3.5603,2.4922 1.3846,-4.23278 -3.5603,-2.49221 h 4.3514 l 1.3846,-3.87674 z"
+       id="path18254-5-9-2-4-1-1-7-8"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1302.0725,176.78442 h 4.1932 l -3.4416,2.49219 1.4241,4.15369 -3.5207,-2.49221 -3.5603,2.49221 1.3846,-4.23279 -3.5603,-2.49222 h 4.3514 l 1.3846,-3.87673 z"
+       id="path18254-5-9-2-7-7-5-9-4"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.2946px;line-height:1.25;font-family:sans-serif;letter-spacing:0.695854px;fill:#ca934c;fill-opacity:1;stroke:none;stroke-width:0.282367"
+       x="1262.796"
+       y="153.4968"
+       id="text22086-9-32-5-6-9-6"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22084-8-1-3-9-0-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Staatliches;-inkscape-font-specification:Staatliches;fill:#ca934c;fill-opacity:1;stroke-width:0.282367"
+         x="1262.796"
+         y="153.4968">SINCE 1984</tspan></text>
+    <g
+       id="g4932-4-1-8-0-0"
+       transform="matrix(0.59975201,0,0,0.59975201,1100.2765,305.64487)"
+       style="fill:#ca934c;fill-opacity:1"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         id="path836-28-3-7-1-8-3-51-9-9-7"
+         style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.625854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 199.86441,262.6256 v 31.30934 h 4.78792 v -6.65828 c 6.37445,-0.002 12.55556,-4.61166 12.64413,-12.08261 0.0994,-8.38618 -6.70436,-12.68085 -12.7188,-12.53101 z m 5.15184,4.66251 c 3.76646,-0.039 7.71468,2.95389 7.64123,7.98083 -0.0498,3.40964 -3.35647,7.57493 -8.00515,7.2196 v -15.18712 c 0.12097,-0.008 0.24242,-0.012 0.36392,-0.0132 z"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path836-28-3-7-1-8-9-7-41-6-9-7"
+         style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.625854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 178.69761,262.6256 v 31.30934 h 4.78792 v -6.65828 c 6.37445,-0.002 12.55556,-4.61166 12.64413,-12.08261 0.0994,-8.38618 -6.70436,-12.68085 -12.7188,-12.53101 z m 5.15184,4.66251 c 3.76646,-0.039 7.71468,2.95389 7.64123,7.98083 -0.0498,3.40964 -3.35647,7.57493 -8.00515,7.2196 v -15.18712 c 0.12097,-0.008 0.24242,-0.012 0.36392,-0.0132 z"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:46.0066px;line-height:1.25;font-family:sans-serif;fill:#ca934c;fill-opacity:1;stroke:none;stroke-width:1.15017"
+         x="219.28569"
+         y="294.23383"
+         id="text22086-9-2-0-4-7"><tspan
+           sodipodi:role="line"
+           id="tspan22084-8-14-6-3-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Staatliches;-inkscape-font-specification:Staatliches;fill:#ca934c;fill-opacity:1;stroke-width:1.15017"
+           x="219.28569"
+           y="294.23383">EMIUM</tspan></text>
+      <path
+         style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 208.32127,286.75039 2.66412,7.34258 h 4.74344 l -3.57382,-9.16196 z"
+         id="path3662-5-8-9-5-6" />
+    </g>
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1198.4352,471.39487 h 4.1932 l -3.4416,2.49219 1.4241,4.15368 -3.5207,-2.4922 -3.5603,2.4922 1.3846,-4.23278 -3.5603,-2.49221 h 4.3514 l 1.3846,-3.87675 z"
+       id="path18254-5-9-2-4-8-2-9-9"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1184.2181,471.31575 h 4.1932 l -3.4416,2.49219 1.4241,4.15368 -3.5207,-2.49221 -3.5603,2.49221 1.3846,-4.23279 -3.5603,-2.49221 h 4.3514 l 1.3846,-3.87673 z"
+       id="path18254-5-9-2-7-9-5-2-6"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1315.9536,471.55313 h 4.1932 l -3.4416,2.49218 1.4241,4.15368 -3.5207,-2.4922 -3.5603,2.4922 1.3846,-4.23278 -3.5603,-2.49221 h 4.3514 l 1.3846,-3.87674 z"
+       id="path18254-5-9-2-4-1-1-7-8-8"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ca934c;fill-opacity:1;stroke:#ca934c;stroke-width:0.161077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1301.7365,471.474 h 4.1932 l -3.4416,2.49219 1.4241,4.15369 -3.5207,-2.49221 -3.5603,2.49221 1.3846,-4.23279 -3.5603,-2.49222 h 4.3514 l 1.3846,-3.87673 z"
+       id="path18254-5-9-2-7-7-5-9-4-4"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.2946px;line-height:1.25;font-family:sans-serif;letter-spacing:0.695854px;fill:#ca934c;fill-opacity:1;stroke:none;stroke-width:0.282367"
+       x="1262.9905"
+       y="448.18622"
+       id="text22086-9-32-5-6-9-6-0"
+       inkscape:export-filename="C:\Users\natha\prog\epita-premium\img\rect1796.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22084-8-1-3-9-0-3-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Staatliches;-inkscape-font-specification:Staatliches;fill:#ca934c;fill-opacity:1;stroke-width:0.282367"
+         x="1262.9905"
+         y="448.18622">SINCE 1984</tspan></text>
   </g>
 </svg>
