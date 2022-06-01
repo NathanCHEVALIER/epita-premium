@@ -79,3 +79,26 @@ footer {
     padding: 20px;
     background-color: #232323;
 }
+
+@media all and (max-width: 700px) {
+    #intro {
+        padding: 10vw;
+    }
+    #logo {
+        max-width: 70vw;    
+    }
+    #tshirt {
+        flex-direction: column;
+    }
+    #tshirt > div {
+        margin: 10vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    #tshirt p {
+        font-size: 18px;
+        text-align: center;
+    }
+}
